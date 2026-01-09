@@ -53,3 +53,4 @@ types-pytz==2025.2.0.20250809
 types-PyYAML==6.0.12.20250915
 types-requests==2.32.4.20250913
 types-xmltodict==1.0.1.20250920
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
